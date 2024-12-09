@@ -1,5 +1,5 @@
 package pack123;
 
-public class Sample4 {
+public class Sample6 {
 //welcome Brother
 }
